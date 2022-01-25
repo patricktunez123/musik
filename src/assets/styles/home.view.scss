@@ -1,0 +1,19 @@
+.home_banner {
+  background: url(../images/home/musik_happy_music.svg), $blue;
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: 10%;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  .banner_content {
+    width: 60%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  }
+}

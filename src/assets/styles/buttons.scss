@@ -1,0 +1,19 @@
+.musik_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+}
+
+.musik_primary_btn {
+  background: $green !important;
+  color: $white !important;
+  text-transform: uppercase;
+}
+
+//SIZES
+
+.musik_big_btn {
+  padding: 1.2rem 3rem;
+  font-weight: 700 !important;
+}
