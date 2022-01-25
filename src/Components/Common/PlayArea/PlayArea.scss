@@ -1,0 +1,15 @@
+@import "../../../assets/styles/colors.scss";
+
+.play_area {
+  background: $lightBlack;
+  height: 12vh;
+  border-top: 2px solid $bolderColor;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}

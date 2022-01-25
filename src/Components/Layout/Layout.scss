@@ -1,0 +1,16 @@
+@import "../../assets/styles/colors.scss";
+
+.player_container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  .main_container {
+    background-image: linear-gradient($lightGrey, $lightBlack);
+    width: 85%;
+    height: 88%;
+    .app_content {
+      height: 90%;
+      overflow-y: scroll;
+    }
+  }
+}

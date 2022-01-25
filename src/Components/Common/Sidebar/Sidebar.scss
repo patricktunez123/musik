@@ -1,0 +1,8 @@
+@import "../../../assets/styles/colors.scss";
+
+.app_sidebar {
+  background: $black;
+  width: 15%;
+  overflow-y: scroll;
+  height: 88%;
+}

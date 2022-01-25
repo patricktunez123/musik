@@ -1,0 +1,12 @@
+@import "../../../assets/styles/colors.scss";
+
+.app_navbar {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+}
+.scrolled {
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
